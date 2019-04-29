@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Xinyi Luo's Brief Self-Introduction
+subtitle: Xinyi Luo (Lisa)'s Brief Self-Introduction
 ---
 
 ### My learning Background
