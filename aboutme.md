@@ -8,9 +8,9 @@ subtitle: Brief self-introduction
 
 - Graduated from Chengdu Experimantal Foreign Languages School in 2019
 - Learning bachelor program in Ecole Polytechnique (Mathematics and Economics double major) for three years from 2019 to 2022
-- Chinese-native speaker   
-- English-fluent   
-- French B2(DELF)
+- Chinese:native speaker   
+- English:fluent   
+- French:B2(DELF)
 
 ### My hobbies:
 
