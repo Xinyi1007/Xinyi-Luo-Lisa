@@ -17,7 +17,7 @@ subtitle: Xinyi Luo (Lisa)'s Brief Self-Introduction
 - Traditional Chinese literature and music
 - Producing songs, especially lyrics
 - Reading books and listening to the music
-- Meditation maybe
+- Meditation maybe, and sleeping 
 
 
 To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
